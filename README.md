@@ -1,2 +1,1 @@
-# indogede
-indogede
+# [indogede](https://indogede.pages.dev)
